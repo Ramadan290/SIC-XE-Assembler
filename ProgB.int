@@ -1,0 +1,10 @@
+00000   FUNC        START               0                   
+00000               EXTDEF              ONE,TWO             
+00000               EXTREF              THREE               
+00000   LOOP        +STA                THREE               
+00004               J                   LOOP                
+00007               RSUB                                    
+0000A   ONE         WORD                8                   
+0000D   TWO         RESW                3                   
+00016   FOUR        WORD                ONE                 
+00019               END                 LOOP                

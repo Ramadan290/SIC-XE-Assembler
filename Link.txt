@@ -1,0 +1,12 @@
+CS_NAME	  EXT_SYM_NAME  	  ADDRESS  	  LENGTH  
+--------------------------------------
+PROGA	**		2000	1000
+**	LISTA		2040	0
+**	ENDA		2054	0
+PROGB	**		3000	2000
+**	LISTB		3040	0
+**	ENDB		3054	0
+PROGC	**		5000	3000
+**	LISTC		5040	0
+**	ENDC		5054	0
+---------------------
